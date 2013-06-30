@@ -7,6 +7,8 @@ A collection of [MediaElement.js](mediaelementjs.com) plugins :
 
 These plugins are maintained by [Constructions Incongrues](http://www.constructions-incongrues.net).
 
+See them in action : [http://www.ouiedire.net](http://www.ouiedire.net).
+
 ## Downloading the sources
 
 The plugins are convenientely available through [Bower](http://bower.io). Just add the following dependency to your project's ```bower.json``` file :
