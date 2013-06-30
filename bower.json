@@ -1,7 +1,7 @@
 {
   "name": "net.constructions-incongrues.mejs",
   "main": "",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "dependencies": {
     "jquery":       ">=2.0.0",
     "mediaelement": ">=2.0.0"
