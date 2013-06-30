@@ -23,7 +23,7 @@ and run ```bower install```.
 
 ## Smart Playlists : Installation and configuration
 
-Make sur the feature is loaded after MediaElement.js. Add this line to your project :
+Make sur the feature is loaded after MediaElement.js.
 
 ```html
   <script src="vendor/mediaelement/build/mediaelement-and-player.min.js"></script>
