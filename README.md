@@ -69,7 +69,7 @@ Here are the plugin default configuration values :
   });
 ```
 
-## Playlist format
+### Playlist format
 
 Here is an example playlist compatible with the default configuration : 
 
