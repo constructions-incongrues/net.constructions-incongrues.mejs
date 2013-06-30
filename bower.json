@@ -3,7 +3,7 @@
   "description": "A collection of MediaElement.js plugins",
   "main": "src",
   "authors": "Constructions Incongrues",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "homepage": "https://github.com/constructions-incongrues/net.constructions-incongrues.mejs",
   "dependencies": {
     "jquery":       "~2.0.0",
