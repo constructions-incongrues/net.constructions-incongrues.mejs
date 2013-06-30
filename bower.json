@@ -1,9 +1,10 @@
 {
   "name": "net.constructions-incongrues.mejs",
   "main": "",
-  "version": "0.1.2",
+  "version": "0.1.3",
+  "main": "src/mep-feature-smartplaylist.js",
   "dependencies": {
-    "jquery":       ">=2.0.0",
-    "mediaelement": ">=2.0.0"
+    "jquery":       "~2.0.0",
+    "mediaelement": "~2.0.0"
   }
 }
