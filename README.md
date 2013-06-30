@@ -2,8 +2,8 @@
 
 A collection of [MediaElement.js](mediaelementjs.com) plugins :
 
-* Smart Playlists : Link a timestamped playlist to the player
-* Autochange : Automatically change page URL when a media ends
+* Smart Playlist : Links a timestamped playlist to the player
+* Autochange : Automatically changes page URL when a media ends
 
 These plugins are maintained by [Constructions Incongrues](http://www.constructions-incongrues.net).
 
